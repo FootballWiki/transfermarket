@@ -1,0 +1,35 @@
+{
+  "season": "2026/27",
+  "source": "FootballSquads",
+  "generatedAt": "2026-10-28T08:28:13.625Z",
+  "uniquePlayers": 3378,
+  "leagues": [
+    {
+      "league": "Premier League",
+      "teams": 20,
+      "playerRows": 1066
+    },
+    {
+      "league": "LaLiga",
+      "teams": 20,
+      "playerRows": 645
+    },
+    {
+      "league": "Serie A",
+      "teams": 20,
+      "playerRows": 635
+    },
+    {
+      "league": "Bundesliga",
+      "teams": 18,
+      "playerRows": 528
+    },
+    {
+      "league": "Ligue 1",
+      "teams": 18,
+      "playerRows": 504
+    }
+  ],
+  "uniquePlayerClubRecordsAfterDeduplication": 3378,
+  "uniqueTop5Clubs": 96
+}
