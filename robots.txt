@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://footballwiki.github.io/transfermarket/sitemap.xml
